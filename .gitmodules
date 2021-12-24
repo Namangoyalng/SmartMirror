@@ -1,0 +1,21 @@
+[submodule "modules/MMM-BMW-OW"]
+	path = modules/MMM-BMW-OW
+	url = https://github.com/mykle1/MMM-BMW-OW
+[submodule "modules/MMM-Detector"]
+	path = modules/MMM-Detector
+	url = https://github.com/bugsounet/MMM-Detector.git
+[submodule "modules/MMM-GABackground"]
+	path = modules/MMM-GABackground
+	url = https://github.com/bugsounet/MMM-GABackground
+[submodule "modules/MMM-GoogleAssistant"]
+	path = modules/MMM-GoogleAssistant
+	url = https://github.com/bugsounet/MMM-GoogleAssistant.git
+[submodule "modules/MMM-MP3Player"]
+	path = modules/MMM-MP3Player
+	url = https://github.com/x3mEr/MMM-MP3Player.git
+[submodule "modules/MMM-NowPlayingOnSpotify"]
+	path = modules/MMM-NowPlayingOnSpotify
+	url = https://github.com/raywo/MMM-NowPlayingOnSpotify.git
+[submodule "modules/MMM-voice"]
+	path = modules/MMM-voice
+	url = https://github.com/fewieden/MMM-voice.git
