@@ -1,6 +1,11 @@
 # SmartMirror
 **Smart mirrors are straight from science fiction. They're part of an optimistic vision of the future that imagines a world where screens and data are everywhere, ready to feed you whatever information you need at a momemt's notice. A smart mirror, also known as a magic mirror, displays the time, weather, calendar, news, and social media updates. The magic is created by placing a transparent mirror over a screen such as a tablet, monitor, or TV. The technology is driven by a Raspberry Pi or Windows PC, combined with voice and face recognition.**
 
+**Motivation : :muscle:**
+- **As technology advances, we continue to find more uses for it that would previously be inconceivable.**
+- **The primary motivation behind the smart mirror is to improve quality of life. The smart mirror will provide convenient information to users on their mirror everyday.**
+- **Motivation for this project stems from multiple sources. In the IRON MAN films, the main character (JARVIS) utilizes holographic displays around the home.** 
+
 ***"Smart Mirror With AI Integration" :dizzy:***
 
 ![SmartMirror](https://user-images.githubusercontent.com/73197307/149340451-feebf635-2a64-4f5f-9bc3-9729ae2f7e9d.jpeg)
@@ -21,3 +26,5 @@
 
 **Reference :**
 ***https://magicmirror.builders/ ~(MagicMirror2){Modules}***
+
+**THANK YOU!**
