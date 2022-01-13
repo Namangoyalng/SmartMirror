@@ -20,4 +20,4 @@
 ![Naman](https://user-images.githubusercontent.com/73197307/149349773-9fc64e5c-cc3a-4ff3-85ba-c47be8b9d8e0.jpeg)
 
 **Reference :**
-***https://magicmirror.builders/~(MagicMirror2){Modules}***
+***https://magicmirror.builders/~(MagicMirror2) {Modules}***
